@@ -1,3 +1,4 @@
+# encoding: utf-8
 def funname(parameter_list):
     print(parameter_list)
 
